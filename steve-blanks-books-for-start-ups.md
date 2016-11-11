@@ -18,23 +18,22 @@ Startups are not smaller versions of larger companies. The requisite skills are 
 
 ## Must Read Books
 
-The subtitle of Technological Revolutions and Financial Capital is the "dynamics of bubbles and golden ages".  A must read to understand the long 50-year innovation cycle we’re in. The other side of innovation is the closest recipe I’ve read for getting entrepreneurship right in large companies. Innovator’s Dilemma and Innovator’s Solution helped me refine the notion of the Four types of Startup Markets.  I read these books as the handbook for startups trying to disrupt an established company. The Innovators DNA rings true about the skills founders need to have. Crossing the Chasm made me understand that there are repeatable patterns in early stage companies. It started my search for the repeatable set of patterns that preceded the chasm.  The Tipping Point has made me realize that marketing communications strategies for companies in New Markets often follow the Tipping Point. Blue Ocean Strategy is a great way to look at what I’ve called "market type."
+The subtitle of Technological Revolutions and Financial Capital is the "dynamics of bubbles and golden ages".  A must read to understand the long 50-year innovation cycle we’re in. The other side of innovation is the closest recipe I’ve read for getting entrepreneurship right in large companies. Innovator’s Dilemma and Innovator’s Solution helped me refine the notion of the Four types of Startup Markets. I read these books as the handbook for startups trying to disrupt an established company. The Innovators DNA rings true about the skills founders need to have. Crossing the Chasm made me understand that there are repeatable patterns in early stage companies. It started my search for the repeatable set of patterns that preceded the chasm.  The Tipping Point has made me realize that marketing communications strategies for companies in New Markets often follow the Tipping Point. Blue Ocean Strategy is a great way to look at what I’ve called "market type."
 
-- [ ] *[Technological Revolutions and Financial Capital](#)* - Carlota Perez; understand our Innovation 50-years
-- [ ] *[The Other Side of Innovation](#)* - Vijay Govindarajan & Chris Trimble; getting innovation right in large companies
-- [ ] *[The Innovator’s Dilemma](#)* - Clayton M. Christensen
-- [ ] *[The Innovator’s Solution](#)* - Clayton M. Christensen
-- [ ] *[The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators](#)* - Jeff Dyer, Hal Gregersen, Clayton M. Christensen; Skills founders need to have
-- [ ] *[Crossing the Chasm](#)* - Marketing and Selling High-Tech Products to Mainstream Customers
-- [ ] *[Inside the Tornado](#)* - Marketing Strategies from Silicon Valley’s Cutting Edge
-- [ ] *[Dealing with Darwin: How Great Companies Innovate at Every Phase of Their Evolution](#)* — all three by Geoffrey A. Moore
-- [ ] *[The Tipping Point](#)* - How Little Things Can Make a Big Difference by Malcolm Gladwell
-- [ ] *[Blue Ocean Strategy](#)* - How to Create Uncontested Market Space and Make Competition Irrelevant by R. Mauborgne and W. C. Kim
+- [ ] *[Technological Revolutions and Financial Capital](http://amzn.to/2fXaDoH)* - Understand our Innovation 50-years
+- [ ] *[The Innovator’s Dilemma](http://amzn.to/2fDLHPd)* - Clayton M. Christensen
+- [ ] *[The Innovator’s Solution](http://amzn.to/2eKe7Vo)* - Clayton M. Christensen
+- [ ] *[The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators](http://amzn.to/2fDOJD8)* - Jeff Dyer, Hal Gregersen, Clayton M. Christensen; Skills founders need to have
+- [ ] *[Crossing the Chasm](http://amzn.to/2fIye7v)* - Marketing and Selling High-Tech Products to Mainstream Customers
+- [ ] *[Inside the Tornado](http://amzn.to/2ePxnEc)* - Marketing Strategies from Silicon Valley’s Cutting Edge
+- [ ] *[Dealing with Darwin: How Great Companies Innovate at Every Phase of Their Evolution](http://amzn.to/2eKfjZd)* — all three by Geoffrey A. Moore
+- [ ] *[The Tipping Point](http://amzn.to/2fIsM4B)* - How Little Things Can Make a Big Difference by Malcolm Gladwell
+- [ ] *[Blue Ocean Strategy](http://amzn.to/2fHQh1q)* - How to Create Uncontested Market Space and Make Competition Irrelevant
 
 ## Strategy Books for Startups
 
-- [ ] The *[Marketing Playbook](#)* gives marketers five strategy options, teaches you gap analysis and offer tactical marketing campaign advice.
-- [ ] *[Do More Faster](#)* identifies issues that first-time entrepreneurs encounter and offer useful advice. Getting Real is web-focussed.
+- [ ] The *[Marketing Playbook](http://amzn.to/2fDPBaH)* gives marketers five strategy options, teaches you gap analysis and offer tactical marketing campaign advice.
+- [ ] *[Do More Faster](http://amzn.to/2fHT4HF)* identifies issues that first-time entrepreneurs encounter and offer useful advice. Getting Real is web-focussed.
 - [ ] Wasserman’s *[Founders Dilemma](#)* is essential reading to building a great startup team.
 
 These books are classics but timeless. The Entrepreneurial Mindset articulates the critically important idea that there are different types of startup opportunities.  The notion of three Market Types springs from here and Christensen’s work.  The book provides a framework for the early marketing/sales strategies essential in a startup.  Delivering Profitable Value talks more about value propositions and value delivery systems than you ever want to hear again.  However, this is one of the books you struggle through and then realize you learned something valuable. Schumpeter’s book Theory of Economic Development is famous for his phrase "creative destruction"  and its relevance to entrepreneurship. Peter Drucker’s Concept of the Corporation was the first insiders view of how a decentralized company (GM) works. His Practice of Management defined "management by objective" and Innovation and Entrepreneurship is a classic. While written for a corporate audience, read it for the sources of innovation. If you write software you already know about Fred Brooks classic text the Mythical Man Month. If you manage a software company you need to read it so you don’t act like Dilbert’s pointy-haired boss. Peppers and Rogers, The One to One Future opened my eyes to concepts of lifetime value, most profitable customers and the entire customer lifecycle of "get, keep and grow." Bill Davidow’s Marketing High Technology introduced me to the concept of "whole product" and the unique needs of mainstream customers. Michael Porter is the father of competitive strategy. His books Competitive Strategy, Competitive Advantage, and On Competition are still the standards.
