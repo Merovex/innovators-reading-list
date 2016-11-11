@@ -8,26 +8,19 @@ Free Harvard Business Review article here
 
 ## Entrepreneurial Management Stack
 
-Over the last few years we’ve discovered that startups are not smaller versions of large companies. The skills founders need are not covered by traditional books for MBA’s and large company managers. There are now a few books that specifically address founders needs. Alexander Osterwalder’s Business Model Generation is the first book that allows you to answer "What’s your business model?" intelligently and with precision. Make sure this one is on your shelf.
+Startups are not smaller versions of larger companies. The requisite skills are different. These books help bridge that knowledge gap:
 
-Osterwalders follow-on book *[Value Proposition Design](#)* describes how to get product/market fit right.  It’s another "must have" for your bookshelf.
-
-Eric Ries was the best student I ever had. He took the Customer Development process, combined it with Agile Engineering, and actually did the first implementation in a startup. His insights about the combined Customer Development/Agile process and its implications past startups into large corporations is a sea change in thinking. His book, The *[Lean Startup](#)* is a "must have" for your shelf.
-
-Ben Horowitz’s *[The Hard Thing About Hard Things](#)* is a series essays about what CEO face in the "Build" phase - the transition from searching for a business model into a company.
-
-It’s impossible to implement any of this if you don’t understand Agile Development. *[Extreme Programming Explained](#)* by one of the pioneers of Agile, Kent Beck, is a great tutorial. If you don’t understand Values, Principles and Practices in XP it makes Customer Development almost impossible.
-
-If you’re in a large company, The *[Other Side of Innovation](#)* makes sense of how to actually insert innovation into an execution organization.  If you’re starting a medical device company *[Biodesign: The Process of Innovating Medical Technologies](#)* is a must have. It has a great customer discovery process.
-
-Talking to Humans is a great simple primer on *[Customer Discovery](#)*.
-
-Four Steps Hardcover cover
-Order Here
-
-And my newest book, The Startup Owners Manual
-
-The Founders Workbook - The Checklist Companion to the Startup Owners Manual
+- [ ] *[Business Model Generation](#)* - Alexander Osterwalder
+- [ ] *[Value Proposition Design](#)* - Alexander Osterwalder
+- [ ] *[The Lean Startup](#)* - Eric Ries
+- [ ] *[The Hard Thing About Hard Things](#)* - Ben Horowitz
+- [ ] *[Extreme Programming Explained](#)* - Kent Beck
+- [ ] *[The Other Side of Innovation](#)* - Vijay Govindarajan & Chris Trimble
+- [ ] *[Talking to Humans: Success Starts with Understanding Your Customers](#)* - Giff Constable & Frank Rimalovski
+- [ ] *[Biodesign: The Process of  Innovating Medical Technologies](#)* - Zenios, Makower, Yock, et al  (great website here)
+- [ ] *[The Four Steps to the Epiphany](#)* - Steve Blank
+- [ ] *[Startup Owners Manual](#)* - Steve Blank
+- [ ] *[The Founders Workbook](#)* - The Checklist Companion to the Startup Owners Manual
 
 ## Must Read Books
 
