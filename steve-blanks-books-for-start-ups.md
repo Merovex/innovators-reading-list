@@ -1,13 +1,5 @@
 # Books for Startups
 
-* [Entreprenurial Management List](/entreprenurial-management-stack.md)
-* [Must Read List](/must-read.md)
-* [Strategy Books for Startups](/startup-strategy.md)
-* [Innovation and Entrepreneurship in the Enterprise](/enterprise-innovation.md)
-* [War as Strategy](/war-strategy.md)
-* [Sales](/sales.md)
-
-
 ## Startup Law and Finance
 
 If you don’t pay attention to the law from the day you start your company it can kill you. But most books (and lawyers) speak in their own arcane language. David Weekly’s An Introduction to Stock and Options should be your first read (unfortunately its Kindle only.)  The Entrepreneurs Guide to Business Law is the one book you ought to have on your shelf.  While not written explicitly for Silicon Valley startups it demystifies the most common areas you need to know. Term Sheets and Valuations is a great read if you’re faced with a term sheet and staring at words like "liquidation preferences and conversion rights" and don’t have a clue what they mean.  Read this and you can act like you almost understand what you are giving away.
