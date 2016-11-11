@@ -49,26 +49,26 @@ th*[e other side of innovation](#)* - Vijay Govindarajan & Chris Trimble
 - [ ] *[Do More Faster](#)* identifies issues that first-time entrepreneurs encounter and offer useful advice. Getting Real is web-focussed.
 - [ ] Wasserman’s *[Founders Dilemma](#)* is essential reading to building a great startup team.
 
-These books are classics but timeless.
-- [ ] *[The Entrepreneurial Mindset](#)* articulates the critically important idea that there are different types of startup opportunities.  The notion of three Market Types springs from here and Christensen’s work.  The book provides a framework for the early marketing/sales strategies essential in a startup.  Delivering Profitable Value talks more about value propositions and value delivery systems than you ever want to hear again.  However, this is one of the books you struggle through and then realize you learned something valuable. 
-- [ ] Schumpeter’s book *[Theory of Economic Development](#)* is famous for his phrase "creative destruction"  and its relevance to entrepreneurship.
-- [ ] Peter Drucker’s *[Concept of the Corporation](#)* was the first insiders view of how a decentralized company (GM) works.
-- [ ] His *[Practice of Management](#)* defined "management by objective" and Innovation and Entrepreneurship is a classic. While written for a corporate audience, read it for the sources of innovation.
-- [ ] If you write software you already know about Fred Brooks classic text the *[Mythical Man Month](#)*. If you manage a software company you need to read it so you don’t act like Dilbert’s pointy-haired boss. Peppers and Rogers, The One to One Future opened my eyes to concepts of lifetime value, most profitable customers and the entire customer lifecycle of "get, keep and grow." Bill Davidow’s Marketing High Technology introduced me to the concept of "whole product" and the unique needs of mainstream customers. Michael Porter is the father of competitive strategy. His books Competitive Strategy, Competitive Advantage, and On Competition are still the standards.
+These books are classics but timeless. The Entrepreneurial Mindset articulates the critically important idea that there are different types of startup opportunities.  The notion of three Market Types springs from here and Christensen’s work.  The book provides a framework for the early marketing/sales strategies essential in a startup.  Delivering Profitable Value talks more about value propositions and value delivery systems than you ever want to hear again.  However, this is one of the books you struggle through and then realize you learned something valuable. Schumpeter’s book Theory of Economic Development is famous for his phrase "creative destruction"  and its relevance to entrepreneurship. Peter Drucker’s Concept of the Corporation was the first insiders view of how a decentralized company (GM) works. His Practice of Management defined "management by objective" and Innovation and Entrepreneurship is a classic. While written for a corporate audience, read it for the sources of innovation. If you write software you already know about Fred Brooks classic text the Mythical Man Month. If you manage a software company you need to read it so you don’t act like Dilbert’s pointy-haired boss. Peppers and Rogers, The One to One Future opened my eyes to concepts of lifetime value, most profitable customers and the entire customer lifecycle of "get, keep and grow." Bill Davidow’s Marketing High Technology introduced me to the concept of "whole product" and the unique needs of mainstream customers. Michael Porter is the father of competitive strategy. His books Competitive Strategy, Competitive Advantage, and On Competition are still the standards.
 
-The Marketing Playbook - John Zagula and Richard Tong
-Do More Faster: Techstar lessons to accelerate your startup - David Cohen and Brad Feld
-Getting Real: The smarter, faster, easier way to build a successful web application - Jason Fried
-The Founders Dilemma: Anticipating and Avoiding the Pitfalls that Can Sink a Startup - Noam Wasserman
-The Entrepreneurial Mindset: Strategies for Continuously Creating Opportunity in an Age of Uncertainty - R.McGrath and I. MacMillan
-Delivering Profitable Value - Michael J. Lanning.
-Theory of Economic Development - Joseph Schumpeter
-Concept of the Corporation, The Practice of Management and Innovation and Entrepreneurship - Peter Drucker
-The Mythical Man Month - Fred Brooks
-The One to One Future: Building Relationships One Customer at a Time by Don Peppers, Martha Rogers
-Marketing High Technology: An Insider’s View and Total Customer Service: The Ultimate Weapon by William H. Davidow
-Competitive Strategy, Competitive Advantage, and On Competition all by Michael Porter
-Innovation and Entrepreneurship in the Enterprise
+- [ ] *[The Marketing Playbook](#)* - John Zagula and Richard Tong
+- [ ] *[Do More Faster](#)*: Techstar lessons to accelerate your startup - David Cohen and Brad Feld
+- [ ] *[Getting Real](#)*: The smarter, faster, easier way to build a successful web application - Jason Fried
+- [ ] *[The Founders Dilemma](#)*: Anticipating and Avoiding the Pitfalls that Can Sink a Startup - Noam Wasserman
+- [ ] *[The Entrepreneurial Mindset](#)*: Strategies for Continuously Creating Opportunity in an Age of Uncertainty - R.McGrath and I. MacMillan
+- [ ] *[Delivering Profitable Value](#)* - Michael J. Lanning.
+- [ ] *[Theory of Economic Development](#)* - Joseph Schumpeter
+- [ ] Concept of the Corporation, The Practice of Management and Innovation and Entrepreneurship - Peter Drucker
+- [ ] *[The Mythical Man Month](#)* - Fred Brooks
+- [ ] *[The One to One Future: Building Relationships One Customer at a Time](#)* - Don Peppers, Martha Rogers
+- [ ] *[Marketing High Technology: An Insider’s View](#)* - by William H. Davidow
+- [ ] *[Total Customer Service: The Ultimate Weapon](#)* - William H. Davidow
+- [ ] *[Competitive Strategy](#)* - Michael Porter
+- [ ] *[Competitive Advantage](#)* - Michael Porter
+- [ ] *[On Competition all](#)* - Michael Porter
+
+## Innovation and Entrepreneurship in the Enterprise
+
 How large companies can stay innovative and entrepreneurial has been the Holy Grail for authors of business books, business schools, consulting firms, etc.  There’s some great work from lots of authors in this area but I’d start by reading the other side of innovation. Next I’d read The Alchemy of Growth to understand the three horizons of innovation and The Future of Mangement and consider its implications.  Rita McGrath’s The End of Competitive Advantage shows companies how to take advantage of transient competitive advantage.  Stanley Mcchrystal’s Team of Teams is a real world example of chapter 6 of the Four Steps to the Epiphany.  Ed Catmull’s description of the Pixar innovation process in Creativity, Inc is a great synthesis of how founders in startup innovate translated into a corporate continuous innovation process.
 
 Then I’d read the short Harvard Business Review articles. Eric Von Hippel work on new product introduction methodologies and the notion of "Lead Users" offer many parallels with Customer Discovery and Validation. But like most books on the subject it’s written from the point of view of a large company. Von Hippel’s four steps of 1) goal generation and team formation, 2) trend research, 3) lead user pyramid networking and 4) Lead User workshop and idea improvement is a more rigorous and disciplined approach then suggested in our book, the Four Steps to the Epiphany.  If you’re a mid-level manager in a company or government agency trying to figure out how to your ideas adopted, you need to own a copy of Rebels@Work - it will save your sanity. And Corporate Cultures is a classic about the stories, heroes, values, and rituals that build a corporate culture.
