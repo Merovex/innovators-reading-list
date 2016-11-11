@@ -1,122 +1,12 @@
 # Books for Startups
 
-## Entrepreneurial Management Stack
+* [Entreprenurial Management List](/entreprenurial-management-stack.md)
+* [Must Read List](/must-read.md)
+* [Strategy Books for Startups](/startup-strategy.md)
+* [Innovation and Entrepreneurship in the Enterprise](/enterprise-innovation.md)
+* [War as Strategy](/war-strategy.md)
+* [Sales](/sales.md)
 
-Startups are not smaller versions of larger companies. The requisite skills are different. These books help bridge that knowledge gap:
-
-- [ ] *[Business Model Generation](http://amzn.to/2eonwqy)*
-- [ ] *[Value Proposition Design](http://amzn.to/2ePxD6j)* 
-- [ ] *[The Lean Startup](http://amzn.to/2eK4PJk)* 
-- [ ] *[The Hard Thing About Hard Things](http://amzn.to/2ePxGzb)* - Business Model Discovery to Company
-- [ ] *[Extreme Programming Explained](http://amzn.to/2fHwr68)* - Explains Agile Mindset
-- [ ] *[The Other Side of Innovation](http://amzn.to/2fHAdN4)* - Innovation in large companies
-- [ ] *[Talking to Humans](http://amzn.to/2fIiYrj)* - Primer on Customer Discovery
-- [ ] *[Biodesign](http://amzn.to/2ePwNXr)* - Innovation in medical design  ([website](http://www.stanford.edu/group/biodesign/cgi-bin/ebiodesign/index.php))
-- [ ] *[The Four Steps to the Epiphany](http://amzn.to/2eJYzRO)*
-- [ ] *[Startup Owners Manual](http://amzn.to/2fDDbjj)*
-
-
-## Must Read Books
-
-- [ ] *[Technological Revolutions and Financial Capital](http://amzn.to/2fXaDoH)* - Understand our Innovation 50-years
-- [ ] *[The Innovator’s Dilemma](http://amzn.to/2fDLHPd)* - Clayton M. Christensen
-- [ ] *[The Innovator’s Solution](http://amzn.to/2eKe7Vo)* - Clayton M. Christensen
-- [ ] *[The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators](http://amzn.to/2fDOJD8)* - Jeff Dyer, Hal Gregersen, Clayton M. Christensen; Skills founders need to have
-- [ ] *[Crossing the Chasm](http://amzn.to/2fIye7v)* - Marketing and Selling High-Tech Products to Mainstream Customers
-- [ ] *[Inside the Tornado](http://amzn.to/2ePxnEc)* - Marketing Strategies from Silicon Valley’s Cutting Edge
-- [ ] *[Dealing with Darwin: How Great Companies Innovate at Every Phase of Their Evolution](http://amzn.to/2eKfjZd)* — all three by Geoffrey A. Moore
-- [ ] *[The Tipping Point](http://amzn.to/2fIsM4B)* - How Little Things Can Make a Big Difference by Malcolm Gladwell
-- [ ] *[Blue Ocean Strategy](http://amzn.to/2fHQh1q)* - How to Create Uncontested Market Space and Make Competition Irrelevant
-
-## Strategy Books for Startups
-
-- [ ] The *[Marketing Playbook](http://amzn.to/2fDPBaH)* gives marketers five strategy options, teaches you gap analysis and offer tactical marketing campaign advice.
-- [ ] *[Do More Faster](http://amzn.to/2fHT4HF)* identifies issues that first-time entrepreneurs encounter and offer useful advice. Getting Real is web-focussed.
-- [ ] Wasserman’s *[Founders Dilemma](http://amzn.to/2fDMJdP)* is essential reading to building a great startup team.
-- [ ] *[Getting Real](http://amzn.to/2fDNSlW)*: The smarter, faster, easier way to build a successful web application - Jason Fried
-- [ ] *[The Entrepreneurial Mindset](http://amzn.to/2ePxH67)*: Strategies for Continuously Creating Opportunity in an Age of Uncertainty - R.McGrath and I. MacMillan
-- [ ] *[Delivering Profitable Value](http://amzn.to/2fDRTGO)* - Michael J. Lanning.
-- [ ] *[Concept of the Corporation](http://amzn.to/2fXb3vc)*, *[The Practice of Management](http://amzn.to/2eZGyj6)* and *[Innovation and Entrepreneurship](http://amzn.to/2eoz4dv)* - Peter Drucker
-- [ ] *[The Mythical Man Month](http://amzn.to/2eoulbD)* - Fred Brooks
-- [ ] *[The One to One Future: Building Relationships One Customer at a Time](http://amzn.to/2g2PlVP)* - Don Peppers, Martha Rogers
-- [ ] *Marketing High Technology: An Insider’s View* - by William H. Davidow
-- [ ] *[Total Customer Service: The Ultimate Weapon](http://amzn.to/2ePC018)* - William H. Davidow (1980s)
-- [ ] *[Competitive Strategy](http://amzn.to/2fDVwwv)* - Michael Porter
-- [ ] *[Competitive Advantage](http://amzn.to/2eoyYmb)* - Michael Porter
-- [ ] *[On Competition](http://amzn.to/2ePDAAa)* - Michael Porter
-
-## Innovation and Entrepreneurship in the Enterprise
-
-How large companies can stay innovative and entrepreneurial has been the Holy Grail for authors of business books, business schools, consulting firms, etc.  There’s some great work from lots of authors in this area but I’d start by reading the other side of innovation. Next I’d read The Alchemy of Growth to understand the three horizons of innovation and The Future of Mangement and consider its implications.  Rita McGrath’s The End of Competitive Advantage shows companies how to take advantage of transient competitive advantage.  Stanley Mcchrystal’s Team of Teams is a real world example of chapter 6 of the Four Steps to the Epiphany.  Ed Catmull’s description of the Pixar innovation process in Creativity, Inc is a great synthesis of how founders in startup innovate translated into a corporate continuous innovation process.
-
-Then I’d read the short Harvard Business Review articles. Eric Von Hippel work on new product introduction methodologies and the notion of "Lead Users" offer many parallels with Customer Discovery and Validation. But like most books on the subject it’s written from the point of view of a large company. Von Hippel’s four steps of 1) goal generation and team formation, 2) trend research, 3) lead user pyramid networking and 4) Lead User workshop and idea improvement is a more rigorous and disciplined approach then suggested in our book, the Four Steps to the Epiphany.  If you’re a mid-level manager in a company or government agency trying to figure out how to your ideas adopted, you need to own a copy of Rebels@Work - it will save your sanity. And Corporate Cultures is a classic about the stories, heroes, values, and rituals that build a corporate culture.
-
-### Books
-
-- [ ] *[The Other Side of Innovation](http://amzn.to/2fHAdN4)* - Innovation in large companies
-- [ ] *[The Alchemy of Growth](http://amzn.to/2ePFxN7)* – Mehrdad Baghai, Stephen Coley & David White
-- [ ] *[The Innovator’s Dilemma](http://amzn.to/2fDLHPd)* - Clayton M. Christensen
-- [ ] *[The Innovator’s Solution](http://amzn.to/2eKe7Vo)* - Clayton M. Christensen
-- [ ] *[The Future of Management](http://amzn.to/2fX9Sff)* – Gary Hamel
-- [x] *[Creativity, Inc](http://amzn.to/2fXf56L)* – Ed Catmull
-- [ ] *[The End of Competitive Advantage: How to Keep Your Strategy Moving as Fast as Your Business](http://amzn.to/2ePE3lU)* – Rita Gunther McGrath
-- [X] *[Team of Teams](http://amzn.to/2fX2YXg)* – General Stanley McChrystal
-- [ ] *[Organizational Ambidexterity: Past, Present and Future](http://merovx.io/2fDSrfL)* – Charles O’Reilly
-- [ ] *[Winning Through Innovation: a Practical Guide to Leading Organizational Change and Renewal](http://amzn.to/2ePCSTs)*, Charles O’Reilly
-- [ ] *[Breakthrough Products with Lead User Research](http://merovx.io/2fDV1Cw)* by Eric Von Hippel and Mary Sonnack
-- [ ] *[The Sources of Innovation](http://merovx.io/2fDZ2qu)* by Eric Von Hippel
-- [ ] *[Rebels@Work](http://amzn.to/2ePIw8n)* by Lois Kelly and Carmen Medina
-- [ ] *[Corporate Cultures: The Rites and Rituals of Corporate Life](http://amzn.to/2fDXkpn)* – Terry Deal and Allan Kennedy
-
-### Harvard Business Review Articles
-
-* Meeting the Challenge of Disruptive Change, Clayton Christensen/Michael Overdorf: March/April 2000
-* The Quest for Resilience, Gary Hamel/Liisa Valikangas: Sept 2003
-* The Ambidextrous Organization, Charles O’Reilly/Michael Tushman: April 2004
-Darwin and the Demon: Innovating Within Established Enterprises, Geoffrey Moore: July/August 2004
-* Meeting the Challenge of Corporate Entrepreneurship, David Garvin/Lynne Levesque: Oct 2006
-* The Innovators DNA, Jeffrey Dyer, Hal Gregersen, Clayton Christensen: Dec 2009
-
-## "War as Strategy" Books
-
-The metaphor that business is war is both a cliché and points to a deeper truth.  Many basic business concepts; competition, leadership, strategy versus tactics, logistics, etc. have their roots in military affairs. The difference is that in business no one dies.  At some time in your business life you need to study war or become a casualty.  Sun Tzu covered all the basics of strategy in The Art of War until the advent of technology temporarily superseded him. Also, in the same vein try The Book of Five Rings by Miyamoto Musashi.  These two books have unfortunately turned into business clichés but they are still timeless reading.  Carl Von Clausewitz’s On War is a 19th century western attempt to understand war. The "Boyd" book, The Fighter Pilot Who Changed the Art of War is a biography and may seem out of place here, but John Boyd’s OODA loop is at the core of Customer Development and the Pivot. Read it and then look at all the web sites for Boyd papers, particularly Patterns of Conflict. The New Lanchester Strategy is so offbeat that it tends to be ignored.  Its ratios of what you require to attack or defend a market keep coming up so often in real life, that I’ve found it hard to ignore.
-
-## Marketing Communications Books
-
-Ries and Trout positioning books can be read in a plane ride, yet after all these years they are still a smack on the side of the head.  Regis McKenna has always been a favorite of mine. However, as you read Relationship Marketing separate out the examples Regis uses into either startups or large sustainable businesses.  What worked in one, won’t necessarily work in another.  Read these books first before you dive into the 21st century stuff like Seth Godin.
-
-Seth Godin "gets deeply" the profound changes the internet is having in the way we think about customers and communicating with them.  Godin’s All Marketers are Liars talks about the power of storytelling in marketing. His Permission Marketing book crystallized a direct marketing technique (permission marketing), which was simply impossible to achieve pre-internet.  Read his Ideavirus after you’ve read Permission Marketing. Made to Stick gives you the tools to make your messages "sticky." I put Sway here because great marketers know how to find these irrational behaviors Lakoff’s book, Don’t Think of an Elephant! while written for a political audience has some valuable insights on framing communications.
-
-- [ ] Positioning: The Battle for Your Mind The 20th Anniversary Edition 
-- [ ] The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk
-- [ ] All Marketers Are Liars by Seth Godin
-- [ ] Made to Stick: Why Some Ideas Survive and Others Die by Chip and Dan Heath
-- [ ] Relationship Marketing: Successful Strategies for the Age of the Customer by Regis McKenna
-- [ ] Permission Marketing: Turning Strangers Into Friends, and Friends into Customers and Unleashing the Ideavirus  by Seth Godin
-- [ ] Don’t Think of an Elephant! by George Lakoff
-- [ ] Sway: the Irresistible Pull of Irrational Behavior by Ori Brafman
-
-## Sales
-
-Lean Analytics is a great discussion about metrics that matter for web/mobile startups. Predictable Revenue is one of those short, smart, tactical books that you need to read if you have a direct sales force. Thomas Freese is the master of consultative selling. Both his books are a great start in understanding how a pro sells. Cracking the Sales Management Code provides a best practice approach to on how to effectively manage a sales force. Jeff Thull’s Mastering the Complex Sale has a lot of elements of Customer Discovery and Validation, but skip the first 50 pages. Many of the ideas of Customer Validation are based on the principles articulated by Bosworth, Heiman and Rackham. Bostworth’s Solution Selling and it’s successor, The New Solution Selling are must reads for any executive launching a new product.  Its articulation of the hierarchy of buyers needs as well its description of how to get customers to articulate their needs, makes this a "must read", particularly those selling to businesses. Yet in his new book What Great Salespeople Do he says, ignore those books follow this advice. Heiman’s books are a bit more tactical and are part of a comprehensive sales training program from his company Miller-Heiman.  If you are in sales or have a sales background you can skip these.  But if you aren’t they are all worth reading for the basic "blocking and tackling" advice.  The only bad news is that Heiman writes like a loud salesman - but the advice is sound. Rackham’s Spin Selling is another series of books about major account, large ticket item sales, with again the emphasis on selling the solution, not features.  Lets Get Real is of the Sandler School of selling (another school of business to business sales methodology.) Jill Konrath has great strategies and insights for large sales. Baseline Selling uses baseball metaphors but it’s an effective explanation of how to do consultative selling. I sure could have used the Complete Idiots Guide to Cold Calling when it was just me and the telephone. The Strategy and Tactics of Pricing provides a great framework for thinking about "how much should I charge for this?"
-
-- [ ] Lean Analytics - Alistar Croll and Ben Yoskovitz
-- [ ] Predictable Revenue - Aaron Ross and MaryLou Tyler
-- [ ] Cracking the Sales Management Code - Jason Jordan and Michelle Vazanna
-- [ ] Secrets of Question Based Selling: How the Most Powerful Tool in Business Can Double Your Sales Results and It Only Takes 1% to Have a Competitive Edge in Sales by Thomas Freese
-- [ ] Mastering the Complex Sale - Jeff Thull
-- [ ] What Great Salespeople Do - Michael Bosworth
-- [ ] Solution Selling: Creating Buyers in Difficult Selling Markets By Michael T. Bosworth
-- [ ] The New Solution Selling: The Revolutionary Process That is Changing the Way People Sell
-- [ ] The New Conceptual Selling: The Most Effective and Proven Method for Face-To-Face Sales Planning and The New Strategic Selling: The Unique Sales System Proven Successful by the World’s Best Companies by Stephen E. Heiman, et. al.
-- [ ] Spin Selling and the Spin Selling Fieldbook By Neil Rackham
-- [ ] Lets Get Real or Lets Not Play by Mahan Khalsa
-- [ ] Snap Selling - Speed Up Sales and Win More Business and Selling to Big Companies both by Jill Konrath
-- [ ] Sandler Selling System  www.sandler.com
-- [ ] Miller Heiman Sales Process Consulting & Training  www.millerheiman.com
-- [ ] Baseline Selling: How to Become A Sales Superstar by Dave Kurlan
-- [ ] The Complete Idiots Guide to Cold Calling by Keith Rosen
-- [ ] The Strategy and Tactics of Pricing - by Nagle, Hogan & Zale
 
 ## Startup Law and Finance
 
@@ -169,8 +59,7 @@ Nesheim’s book High Tech Startup is the gold standard of the nuts and bolts of
 - [ ] Engineering Your Start-Up: A Guide for the High-Tech Entrepreneur by Michael L. Bair
 - [ ] High-Tech Ventures: The Guide for Entrepreneurial Success by Gordon Bell
 
-
-Startup Textbooks
+## Startup Textbooks
 
 If you take an entrepreneurship class in a Business School or University you’ll probably encounter one of these textbooks.The reason you don’t see them on the desks of working entrepreneurs is that at $100-$150+ they’re all priced for a captive student audience. (Some do have paperback versions for $50-$85.) The other uncomfortable fact is that most startups in Silicon Valley ignore these textbooks once they leave school. In the real-world startups are now built using the business model/customer development/agile engineering stack. Not one of these textbooks teach that.
 
