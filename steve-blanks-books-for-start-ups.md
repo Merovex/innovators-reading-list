@@ -27,12 +27,11 @@ Startups are not smaller versions of larger companies. The requisite skills are 
 The subtitle of Technological Revolutions and Financial Capital is the "dynamics of bubbles and golden ages".  A must read to understand the long 50-year innovation cycle we’re in. The other side of innovation is the closest recipe I’ve read for getting entrepreneurship right in large companies. Innovator’s Dilemma and Innovator’s Solution helped me refine the notion of the Four types of Startup Markets.  I read these books as the handbook for startups trying to disrupt an established company. The Innovators DNA rings true about the skills founders need to have. Crossing the Chasm made me understand that there are repeatable patterns in early stage companies. It started my search for the repeatable set of patterns that preceded the chasm.  The Tipping Point has made me realize that marketing communications strategies for companies in New Markets often follow the Tipping Point. Blue Ocean Strategy is a great way to look at what I’ve called "market type."
 
 - [ ] *[Technological Revolutions and Financial Capital](#)* - Carlota Perez
-th*[e other side of innovation](#)* - Vijay Govindarajan & Chris Trimble
 - [ ] *[The Innovator’s Dilemma](#)* & *[The Innovator’s Solution](#)* by Clayton M. Christensen
 - [ ] *[The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators](#)* - Jeff Dyer, Hal Gregersen, Clayton M. Christensen
 - [ ] *[Crossing the chasm](#)* - Marketing and Selling High-Tech Products to Mainstream Customers
 - [ ] *[Inside the Tornado](#)* - Marketing Strategies from Silicon Valley’s Cutting Edge
-- [ ] Dealing with Darwin: How Great Companies Innovate at Every Phase of Their Evolution — all three by Geoffrey A. Moore
+- [ ] *[Dealing with Darwin: How Great Companies Innovate at Every Phase of Their Evolution](#)* — all three by Geoffrey A. Moore
 - [ ] *[The Tipping Point](#)* - How Little Things Can Make a Big Difference by Malcolm Gladwell
 - [ ] *[Blue Ocean Strategy](#)* - How to Create Uncontested Market Space and Make Competition Irrelevant by R. Mauborgne and W. C. Kim
 
