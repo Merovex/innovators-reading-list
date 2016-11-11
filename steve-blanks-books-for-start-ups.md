@@ -18,8 +18,6 @@ Startups are not smaller versions of larger companies. The requisite skills are 
 
 ## Must Read Books
 
-The subtitle of Technological Revolutions and Financial Capital is the "dynamics of bubbles and golden ages".  A must read to understand the long 50-year innovation cycle we’re in. The other side of innovation is the closest recipe I’ve read for getting entrepreneurship right in large companies. Innovator’s Dilemma and Innovator’s Solution helped me refine the notion of the Four types of Startup Markets. I read these books as the handbook for startups trying to disrupt an established company. The Innovators DNA rings true about the skills founders need to have. Crossing the Chasm made me understand that there are repeatable patterns in early stage companies. It started my search for the repeatable set of patterns that preceded the chasm.  The Tipping Point has made me realize that marketing communications strategies for companies in New Markets often follow the Tipping Point. Blue Ocean Strategy is a great way to look at what I’ve called "market type."
-
 - [ ] *[Technological Revolutions and Financial Capital](http://amzn.to/2fXaDoH)* - Understand our Innovation 50-years
 - [ ] *[The Innovator’s Dilemma](http://amzn.to/2fDLHPd)* - Clayton M. Christensen
 - [ ] *[The Innovator’s Solution](http://amzn.to/2eKe7Vo)* - Clayton M. Christensen
@@ -34,25 +32,18 @@ The subtitle of Technological Revolutions and Financial Capital is the "dynamics
 
 - [ ] The *[Marketing Playbook](http://amzn.to/2fDPBaH)* gives marketers five strategy options, teaches you gap analysis and offer tactical marketing campaign advice.
 - [ ] *[Do More Faster](http://amzn.to/2fHT4HF)* identifies issues that first-time entrepreneurs encounter and offer useful advice. Getting Real is web-focussed.
-- [ ] Wasserman’s *[Founders Dilemma](#)* is essential reading to building a great startup team.
-
-These books are classics but timeless. The Entrepreneurial Mindset articulates the critically important idea that there are different types of startup opportunities.  The notion of three Market Types springs from here and Christensen’s work.  The book provides a framework for the early marketing/sales strategies essential in a startup.  Delivering Profitable Value talks more about value propositions and value delivery systems than you ever want to hear again.  However, this is one of the books you struggle through and then realize you learned something valuable. Schumpeter’s book Theory of Economic Development is famous for his phrase "creative destruction"  and its relevance to entrepreneurship. Peter Drucker’s Concept of the Corporation was the first insiders view of how a decentralized company (GM) works. His Practice of Management defined "management by objective" and Innovation and Entrepreneurship is a classic. While written for a corporate audience, read it for the sources of innovation. If you write software you already know about Fred Brooks classic text the Mythical Man Month. If you manage a software company you need to read it so you don’t act like Dilbert’s pointy-haired boss. Peppers and Rogers, The One to One Future opened my eyes to concepts of lifetime value, most profitable customers and the entire customer lifecycle of "get, keep and grow." Bill Davidow’s Marketing High Technology introduced me to the concept of "whole product" and the unique needs of mainstream customers. Michael Porter is the father of competitive strategy. His books Competitive Strategy, Competitive Advantage, and On Competition are still the standards.
-
-- [ ] *[The Marketing Playbook](#)* - John Zagula and Richard Tong
-- [ ] *[Do More Faster](#)*: Techstar lessons to accelerate your startup - David Cohen and Brad Feld
-- [ ] *[Getting Real](#)*: The smarter, faster, easier way to build a successful web application - Jason Fried
-- [ ] *[The Founders Dilemma](#)*: Anticipating and Avoiding the Pitfalls that Can Sink a Startup - Noam Wasserman
-- [ ] *[The Entrepreneurial Mindset](#)*: Strategies for Continuously Creating Opportunity in an Age of Uncertainty - R.McGrath and I. MacMillan
-- [ ] *[Delivering Profitable Value](#)* - Michael J. Lanning.
-- [ ] *[Theory of Economic Development](#)* - Joseph Schumpeter
-- [ ] Concept of the Corporation, The Practice of Management and Innovation and Entrepreneurship - Peter Drucker
-- [ ] *[The Mythical Man Month](#)* - Fred Brooks
-- [ ] *[The One to One Future: Building Relationships One Customer at a Time](#)* - Don Peppers, Martha Rogers
-- [ ] *[Marketing High Technology: An Insider’s View](#)* - by William H. Davidow
-- [ ] *[Total Customer Service: The Ultimate Weapon](#)* - William H. Davidow
-- [ ] *[Competitive Strategy](#)* - Michael Porter
-- [ ] *[Competitive Advantage](#)* - Michael Porter
-- [ ] *[On Competition all](#)* - Michael Porter
+- [ ] Wasserman’s *[Founders Dilemma](http://amzn.to/2fDMJdP)* is essential reading to building a great startup team.
+- [ ] *[Getting Real](http://amzn.to/2fDNSlW)*: The smarter, faster, easier way to build a successful web application - Jason Fried
+- [ ] *[The Entrepreneurial Mindset](http://amzn.to/2ePxH67)*: Strategies for Continuously Creating Opportunity in an Age of Uncertainty - R.McGrath and I. MacMillan
+- [ ] *[Delivering Profitable Value](http://amzn.to/2fDRTGO)* - Michael J. Lanning.
+- [ ] *[Concept of the Corporation](http://amzn.to/2fXb3vc)*, *[The Practice of Management](http://amzn.to/2eZGyj6)* and *[Innovation and Entrepreneurship](http://amzn.to/2eoz4dv)* - Peter Drucker
+- [ ] *[The Mythical Man Month](http://amzn.to/2eoulbD)* - Fred Brooks
+- [ ] *[The One to One Future: Building Relationships One Customer at a Time](http://amzn.to/2g2PlVP)* - Don Peppers, Martha Rogers
+- [ ] *Marketing High Technology: An Insider’s View* - by William H. Davidow
+- [ ] *[Total Customer Service: The Ultimate Weapon](http://amzn.to/2ePC018)* - William H. Davidow (1980s)
+- [ ] *[Competitive Strategy](http://amzn.to/2fDVwwv)* - Michael Porter
+- [ ] *[Competitive Advantage](http://amzn.to/2eoyYmb)* - Michael Porter
+- [ ] *[On Competition](http://amzn.to/2ePDAAa)* - Michael Porter
 
 ## Innovation and Entrepreneurship in the Enterprise
 
