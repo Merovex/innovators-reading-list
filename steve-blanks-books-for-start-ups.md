@@ -70,43 +70,44 @@ Then I’d read the short Harvard Business Review articles. Eric Von Hippel work
 
 ### Harvard Business Review Articles
 
-Meeting the Challenge of Disruptive Change, Clayton Christensen/Michael Overdorf: March/April 2000
-The Quest for Resilience, Gary Hamel/Liisa Valikangas: Sept 2003
-The Ambidextrous Organization, Charles O’Reilly/Michael Tushman: April 2004
+* Meeting the Challenge of Disruptive Change, Clayton Christensen/Michael Overdorf: March/April 2000
+* The Quest for Resilience, Gary Hamel/Liisa Valikangas: Sept 2003
+* The Ambidextrous Organization, Charles O’Reilly/Michael Tushman: April 2004
 Darwin and the Demon: Innovating Within Established Enterprises, Geoffrey Moore: July/August 2004
-Meeting the Challenge of Corporate Entrepreneurship, David Garvin/Lynne Levesque: Oct 2006
-The Innovators DNA, Jeffrey Dyer, Hal Gregersen, Clayton Christensen: Dec 2009
-"War as Strategy" Books
+* Meeting the Challenge of Corporate Entrepreneurship, David Garvin/Lynne Levesque: Oct 2006
+* The Innovators DNA, Jeffrey Dyer, Hal Gregersen, Clayton Christensen: Dec 2009
+
+## "War as Strategy" Books
 
 The metaphor that business is war is both a cliché and points to a deeper truth.  Many basic business concepts; competition, leadership, strategy versus tactics, logistics, etc. have their roots in military affairs. The difference is that in business no one dies.  At some time in your business life you need to study war or become a casualty.  Sun Tzu covered all the basics of strategy in The Art of War until the advent of technology temporarily superseded him. Also, in the same vein try The Book of Five Rings by Miyamoto Musashi.  These two books have unfortunately turned into business clichés but they are still timeless reading.  Carl Von Clausewitz’s On War is a 19th century western attempt to understand war. The "Boyd" book, The Fighter Pilot Who Changed the Art of War is a biography and may seem out of place here, but John Boyd’s OODA loop is at the core of Customer Development and the Pivot. Read it and then look at all the web sites for Boyd papers, particularly Patterns of Conflict. The New Lanchester Strategy is so offbeat that it tends to be ignored.  Its ratios of what you require to attack or defend a market keep coming up so often in real life, that I’ve found it hard to ignore.
 
-Marketing Communications Books
+## Marketing Communications Books
 
 Ries and Trout positioning books can be read in a plane ride, yet after all these years they are still a smack on the side of the head.  Regis McKenna has always been a favorite of mine. However, as you read Relationship Marketing separate out the examples Regis uses into either startups or large sustainable businesses.  What worked in one, won’t necessarily work in another.  Read these books first before you dive into the 21st century stuff like Seth Godin.
 
 Seth Godin "gets deeply" the profound changes the internet is having in the way we think about customers and communicating with them.  Godin’s All Marketers are Liars talks about the power of storytelling in marketing. His Permission Marketing book crystallized a direct marketing technique (permission marketing), which was simply impossible to achieve pre-internet.  Read his Ideavirus after you’ve read Permission Marketing. Made to Stick gives you the tools to make your messages "sticky." I put Sway here because great marketers know how to find these irrational behaviors Lakoff’s book, Don’t Think of an Elephant! while written for a political audience has some valuable insights on framing communications.
 
-Sales
+## Sales
 
 Lean Analytics is a great discussion about metrics that matter for web/mobile startups. Predictable Revenue is one of those short, smart, tactical books that you need to read if you have a direct sales force. Thomas Freese is the master of consultative selling. Both his books are a great start in understanding how a pro sells. Cracking the Sales Management Code provides a best practice approach to on how to effectively manage a sales force. Jeff Thull’s Mastering the Complex Sale has a lot of elements of Customer Discovery and Validation, but skip the first 50 pages. Many of the ideas of Customer Validation are based on the principles articulated by Bosworth, Heiman and Rackham. Bostworth’s Solution Selling and it’s successor, The New Solution Selling are must reads for any executive launching a new product.  Its articulation of the hierarchy of buyers needs as well its description of how to get customers to articulate their needs, makes this a "must read", particularly those selling to businesses. Yet in his new book What Great Salespeople Do he says, ignore those books follow this advice. Heiman’s books are a bit more tactical and are part of a comprehensive sales training program from his company Miller-Heiman.  If you are in sales or have a sales background you can skip these.  But if you aren’t they are all worth reading for the basic "blocking and tackling" advice.  The only bad news is that Heiman writes like a loud salesman - but the advice is sound. Rackham’s Spin Selling is another series of books about major account, large ticket item sales, with again the emphasis on selling the solution, not features.  Lets Get Real is of the Sandler School of selling (another school of business to business sales methodology.) Jill Konrath has great strategies and insights for large sales. Baseline Selling uses baseball metaphors but it’s an effective explanation of how to do consultative selling. I sure could have used the Complete Idiots Guide to Cold Calling when it was just me and the telephone. The Strategy and Tactics of Pricing provides a great framework for thinking about "how much should I charge for this?"
 
-Lean Analytics - Alistar Croll and Ben Yoskovitz
-Predictable Revenue - Aaron Ross and MaryLou Tyler
-Cracking the Sales Management Code - Jason Jordan and Michelle Vazanna
-Secrets of Question Based Selling: How the Most Powerful Tool in Business Can Double Your Sales Results and It Only Takes 1% to Have a Competitive Edge in Sales by Thomas Freese
-Mastering the Complex Sale - Jeff Thull
-What Great Salespeople Do - Michael Bosworth
-Solution Selling: Creating Buyers in Difficult Selling Markets By Michael T. Bosworth
-The New Solution Selling: The Revolutionary Process That is Changing the Way People Sell
-The New Conceptual Selling: The Most Effective and Proven Method for Face-To-Face Sales Planning and The New Strategic Selling: The Unique Sales System Proven Successful by the World’s Best Companies by Stephen E. Heiman, et. al.
-Spin Selling and the Spin Selling Fieldbook By Neil Rackham
-Lets Get Real or Lets Not Play by Mahan Khalsa
-Snap Selling - Speed Up Sales and Win More Business and Selling to Big Companies both by Jill Konrath
-Sandler Selling System  www.sandler.com
-Miller Heiman Sales Process Consulting & Training  www.millerheiman.com
-Baseline Selling: How to Become A Sales Superstar by Dave Kurlan
-The Complete Idiots Guide to Cold Calling by Keith Rosen
-The Strategy and Tactics of Pricing - by Nagle, Hogan & Zale
+- [ ] Lean Analytics - Alistar Croll and Ben Yoskovitz
+- [ ] Predictable Revenue - Aaron Ross and MaryLou Tyler
+- [ ] Cracking the Sales Management Code - Jason Jordan and Michelle Vazanna
+- [ ] Secrets of Question Based Selling: How the Most Powerful Tool in Business Can Double Your Sales Results and It Only Takes 1% to Have a Competitive Edge in Sales by Thomas Freese
+- [ ] Mastering the Complex Sale - Jeff Thull
+- [ ] What Great Salespeople Do - Michael Bosworth
+- [ ] Solution Selling: Creating Buyers in Difficult Selling Markets By Michael T. Bosworth
+- [ ] The New Solution Selling: The Revolutionary Process That is Changing the Way People Sell
+- [ ] The New Conceptual Selling: The Most Effective and Proven Method for Face-To-Face Sales Planning and The New Strategic Selling: The Unique Sales System Proven Successful by the World’s Best Companies by Stephen E. Heiman, et. al.
+- [ ] Spin Selling and the Spin Selling Fieldbook By Neil Rackham
+- [ ] Lets Get Real or Lets Not Play by Mahan Khalsa
+- [ ] Snap Selling - Speed Up Sales and Win More Business and Selling to Big Companies both by Jill Konrath
+- [ ] Sandler Selling System  www.sandler.com
+- [ ] Miller Heiman Sales Process Consulting & Training  www.millerheiman.com
+- [ ] Baseline Selling: How to Become A Sales Superstar by Dave Kurlan
+- [ ] The Complete Idiots Guide to Cold Calling by Keith Rosen
+- [ ] The Strategy and Tactics of Pricing - by Nagle, Hogan & Zale
 Startup Law and Finance
 
 If you don’t pay attention to the law from the day you start your company it can kill you. But most books (and lawyers) speak in their own arcane language. David Weekly’s An Introduction to Stock and Options should be your first read (unfortunately its Kindle only.)  The Entrepreneurs Guide to Business Law is the one book you ought to have on your shelf.  While not written explicitly for Silicon Valley startups it demystifies the most common areas you need to know. Term Sheets and Valuations is a great read if you’re faced with a term sheet and staring at words like "liquidation preferences and conversion rights" and don’t have a clue what they mean.  Read this and you can act like you almost understand what you are giving away.
