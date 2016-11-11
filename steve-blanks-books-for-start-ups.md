@@ -35,8 +35,8 @@ The subtitle of Technological Revolutions and Financial Capital is the "dynamics
 
 * *[Technological Revolutions and Financial Capital](#)* - Carlota Perez
 th*[e other side of innovation](#)* - Vijay Govindarajan & Chris Trimble
-* The Innovator’s Dilemma & The Innovator’s Solution by Clayton M. Christensen
-* *[The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators](#)* - Jeff Dyer, Hal Gregersen, Clayton M. Christensen
+* *[The Innovator’s Dilemma](#)* & *[The Innovator’s Solution](#)* by Clayton M. Christensen
+* *[The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators](#)** - Jeff Dyer, Hal Gregersen, Clayton M. Christensen
 * *[Crossing the chasm](#)* - Marketing and Selling High-Tech Products to Mainstream Customers
 * *[Inside the Tornado](#)* - Marketing Strategies from Silicon Valley’s Cutting Edge
 * Dealing with Darwin: How Great Companies Innovate at Every Phase of Their Evolution — all three by Geoffrey A. Moore
