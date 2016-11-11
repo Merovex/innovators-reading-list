@@ -108,19 +108,20 @@ Lean Analytics is a great discussion about metrics that matter for web/mobile st
 - [ ] Baseline Selling: How to Become A Sales Superstar by Dave Kurlan
 - [ ] The Complete Idiots Guide to Cold Calling by Keith Rosen
 - [ ] The Strategy and Tactics of Pricing - by Nagle, Hogan & Zale
-Startup Law and Finance
+
+## Startup Law and Finance
 
 If you don’t pay attention to the law from the day you start your company it can kill you. But most books (and lawyers) speak in their own arcane language. David Weekly’s An Introduction to Stock and Options should be your first read (unfortunately its Kindle only.)  The Entrepreneurs Guide to Business Law is the one book you ought to have on your shelf.  While not written explicitly for Silicon Valley startups it demystifies the most common areas you need to know. Term Sheets and Valuations is a great read if you’re faced with a term sheet and staring at words like "liquidation preferences and conversion rights" and don’t have a clue what they mean.  Read this and you can act like you almost understand what you are giving away.
 
-Silicon Valley/Regional Clusters
+## Silicon Valley/Regional Clusters
 
 Brad Feld’s Startup Communities posits a big idea: startup communities are driven by entrepreneurs who are the leaders and everyone else is a feeder. Essential reading if you’re trying to build your own cluster. Anna Lee Saxenian’s Regional Advantage  is the definitive text of why Silicon Valley beat Boston as the hub of U.S. entrepreneurship. Startup Nation is the story of how the Israeli government engineered the country into becoming the hottest cluster outside the U.S. for startups. In contrast, Josh Lerner’s Boulevard of Broken Dreams describes the multiple ways governments can screw up a cluster. Jessica Livingston’s Founders At Work are the best case studies/vignettes without a PR rewrite of how founders really start companies. The Startup Playbook  also does a good job of offering founders advice. An Engineer’s Guide to Silicon Valley Startups is one of those quirky books that perfectly match Silicon Valley culture. If you’re an engineer in the valley or coming out, this is a useful read. It describes what types of startups are there, how to get a job at one, negotiating your salary, stock options, etc. Geek Silicon Valley is part history and part travel guide. Also useful.
 
-Venture Capital
+## Venture Capital
 
 If you buy one book to understand how VC’s and fund raising works, Venture Deals is the one. Wish I had it when I did startups. Same for Mastering the VC Game. If you read two books about how to deal with VC’s start here. The rest of the books are personal stories. Bill Draper’s book is both history and advice from a VC pioneer. If you have never experienced a startup first hand, Jerry Kaplan’s bookStartup and Michael Wolff’s book Burn Rate are good reads of a founder’s adventure with the venture capitalists.  Eboys is the story of Benchmark Capital during the Internet Bubble.  Ferguson’s book is a great read for the first time entrepreneur.  His personality and views of the venture capitalists and "suits" are a Rorschach ink blot test for the reader.
 
-Venture Capital History
+## Venture Capital History
 
 These books tell the story of the formation of the Venture Capital Industry.
 
