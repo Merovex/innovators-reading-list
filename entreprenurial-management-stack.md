@@ -12,3 +12,13 @@ Startups are not smaller versions of larger companies. The requisite skills are 
 - [ ] *[Biodesign](http://amzn.to/2ePwNXr)* - Innovation in medical design  ([website](http://www.stanford.edu/group/biodesign/cgi-bin/ebiodesign/index.php))
 - [ ] *[The Four Steps to the Epiphany](http://amzn.to/2eJYzRO)*
 - [ ] *[Startup Owners Manual](http://amzn.to/2fDDbjj)*
+
+I am committing to reading and summarizing the following:
+
+- [ ] *[The Lean Startup](http://amzn.to/2eK4PJk)* 
+- [ ] *[The Other Side of Innovation](http://amzn.to/2fHAdN4)* - Innovation in large companies
+- [ ] *[The Four Steps to the Epiphany](http://amzn.to/2eJYzRO)*
+- [ ] *[Startup Owners Manual](http://amzn.to/2fDDbjj)*
+- [ ] *[Your Strategy Needs a Strategy](http://amzn.to/2eVOz80)*
+- [ ] *[Sprint](http://amzn.to/2fS55Xw)*
+- [ ] *[Lean Product Playbook](http://amzn.to/2fS5LMn)*
