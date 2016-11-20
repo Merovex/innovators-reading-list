@@ -1,10 +1,28 @@
 # Innovation and Entrepreneurship in the Enterprise
 
-How large companies can stay innovative and entrepreneurial has been the Holy Grail for authors of business books, business schools, consulting firms, etc.  There’s some great work from lots of authors in this area but I’d start by reading the other side of innovation. Next I’d read The Alchemy of Growth to understand the three horizons of innovation and The Future of Mangement and consider its implications.  Rita McGrath’s The End of Competitive Advantage shows companies how to take advantage of transient competitive advantage.  Stanley Mcchrystal’s Team of Teams is a real world example of chapter 6 of the Four Steps to the Epiphany.  Ed Catmull’s description of the Pixar innovation process in Creativity, Inc is a great synthesis of how founders in startup innovate translated into a corporate continuous innovation process.
+## Recommended Reading Order
 
-Then I’d read the short Harvard Business Review articles. Eric Von Hippel work on new product introduction methodologies and the notion of "Lead Users" offer many parallels with Customer Discovery and Validation. But like most books on the subject it’s written from the point of view of a large company. Von Hippel’s four steps of 1) goal generation and team formation, 2) trend research, 3) lead user pyramid networking and 4) Lead User workshop and idea improvement is a more rigorous and disciplined approach then suggested in our book, the Four Steps to the Epiphany.  If you’re a mid-level manager in a company or government agency trying to figure out how to your ideas adopted, you need to own a copy of Rebels@Work - it will save your sanity. And Corporate Cultures is a classic about the stories, heroes, values, and rituals that build a corporate culture.
+How large companies can stay innovative and entrepreneurial has been the Holy Grail for authors of business books, business schools, consulting firms, etc.
 
-## Books
+There’s some great work from lots of authors in this area. Start by reading the *[The Other Side of Innovation](http://amzn.to/2fHAdN4)*.
+Then read *[The Alchemy of Growth](http://amzn.to/2ePFxN7)* to understand the three horizons of innovation and *[The Future of Management](http://amzn.to/2fX9Sff)* and consider its implications.
+Rita McGrath’s *[The End of Competitive Advantage](http://amzn.to/2ePE3lU)* shows companies how to take advantage of transient competitive advantage.
+Stanley McChrystal's *[Team of Teams](http://amzn.to/2fX2YXg)* is a case study of chapter 6 of the *Four Steps to the Epiphany*.
+
+Ed Catmull’s description of the Pixar innovation process in *[Creativity, Inc](http://amzn.to/2fXf56L)* is a great synthesis of how founders in startup innovate translated into a corporate continuous innovation process.
+
+Then I’d read the short Harvard Business Review articles.
+
+Eric Von Hippel work on new product introduction methodologies and the notion of "Lead Users" offer many parallels with Customer Discovery and Validation.
+
+But like most books on the subject it’s written from the point of view of a large company.
+
+Von Hippel’s four steps of 1) goal generation and team formation, 2) trend research, 3) lead user pyramid networking and 4) Lead User workshop and idea improvement is a more rigorous and disciplined approach then suggested in our book, the Four Steps to the Epiphany.
+
+**Middle/Government Manager.** If you’re a mid-level manager in a company or government agency trying to figure out how to your ideas adopted, you need to own a copy of *[Rebels@Work](http://amzn.to/2ePIw8n)* to save your sanity.
+*[Corporate Cultures](http://amzn.to/2fDXkpn)* is a classic about the stories, heroes, values, and rituals that build a corporate culture.
+
+## Reading List
 
 - [ ] *[The Other Side of Innovation](http://amzn.to/2fHAdN4)* - Innovation in large companies
 - [ ] *[The Alchemy of Growth](http://amzn.to/2ePFxN7)* – Mehrdad Baghai, Stephen Coley & David White
