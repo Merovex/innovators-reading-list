@@ -149,7 +149,7 @@ Current Events & War of Words & Press
 
 1. We are losing the narrative fight because we do not trust our youth or differing thoughts.
 
-2. Bombs: when terrorists detonate a bomb in IZ killing/wounding 80 it is "a bomb went off." When we accidentally bomb a wedding party killing 20 its "The Americans bombed a wedding party." What is it active when we make a mistake, and passive when they are intentional?
+2. Bombs: when terrorists detonate a bomb in IZ killing/wounding 80 it is "a bomb went off." When we accidentally bomb a wedding party killing 20 its "The Americans bombed a wedding party." Why is it active when we make a mistake, and passive when they are intentional?
 
 3. A journalist said he received phone calls every couple of hours from a terrorist he knew would behead him if he could. That terrorist told him what was happening, who did it and why (it was NATO's fault). The same journalist calls his (U.K.) government on a Friday afternoon and 1) may not get a call back, 2) if he does it's a public affairs guy 3) who doesn't know anything and 4) will say no comment when he does.
 
