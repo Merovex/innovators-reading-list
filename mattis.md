@@ -96,7 +96,7 @@ Culture
 
 5. Avoid "Dramatic Instance fallacy," which he defines differently than you find online. He said a dramatic event in your life will create a vividness that will lead to bias which in turn becomes racism (he was talking combat). Kill racism, relieve officers who are smitten with it.
 
-6. "Be unapologetic about your opinion and culture.
+6. "Be unapologetic about your opinion and culture."
 
 
 
@@ -107,13 +107,13 @@ Leadership
 
 1. It is more like coaching than commanding (Coaching > Commanding)
 
-2. Give Commander's Intent (my phrase), and few orders---train your subordinates well and trust them to carry your orders out. (Give directions, then shut up)
+2. Give Commander's Intent (my phrase), and few orders--train your subordinates well and trust them to carry your orders out. (Give directions, then shut up)
 
 3. He said in one battle that spanned a week he gave only two orders...
 
-4. Mother Teresa shook his hand once and said, "Can you do more?" He thought, `I guess I could.'
+4. Mother Teresa shook his hand once and said, "Can you do more?" He thought, "I guess I could."
 
-5. Give your intent, the mission over an order, and let them execute---they won't do it your way but they'll get your result. This is not benign neglect.
+5. Give your intent, the mission over an order, and let them execute--they won't do it your way but they'll get your result. This is not benign neglect.
 
 6. We are the Varsity Team. Stop acting like Junior Varsity.
 
