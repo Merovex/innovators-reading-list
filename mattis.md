@@ -11,11 +11,11 @@ His Story
 
 1. LTC (18 yrs) Gulf War
 
-2. Pre-9/11, was given a dead-end assignment because of ``bad behavior."
+2. Pre-9/11, was given a dead-end assignment because of "bad behavior."
 
 3. Went into Fallugah, etc.
 
-4. Officer group called ``jedi knights" I need to recall 
+4. Officer group called "jedi knights" I need to recall 
 
 
 Trust
@@ -86,7 +86,7 @@ Culture
 =======
 
 
-1. ``Irrevocable world view" is what the Muslims have.
+1. "Irrevocable world view" is what the Muslims have.
 
 2. Are the outcomes of the Enlightenment worth defending? If so, we need to. Enlightement includes the concept of tolerance of different thought. We need to be intolerant about defending tolerance.
 
@@ -94,7 +94,7 @@ Culture
 
 4. They are committed and unapologetic about their world view...we need to be, too. (See point 2)
 
-5. Avoid ``Dramatic Instance fallacy," which he defines differently than you find online. He said a dramatic event in your life will create a vividness that will lead to bias which in turn becomes racism (he was talking combat). Kill racism, relieve officers who are smitten with it.
+5. Avoid "Dramatic Instance fallacy," which he defines differently than you find online. He said a dramatic event in your life will create a vividness that will lead to bias which in turn becomes racism (he was talking combat). Kill racism, relieve officers who are smitten with it.
 
 6. "Be unapologetic about your opinion and culture.
 
@@ -111,7 +111,7 @@ Leadership
 
 3. He said in one battle that spanned a week he gave only two orders...
 
-4. Mother Teresa shook his hand once and said, ``Can you do more?" He thought, `I guess I could.'
+4. Mother Teresa shook his hand once and said, "Can you do more?" He thought, `I guess I could.'
 
 5. Give your intent, the mission over an order, and let them execute---they won't do it your way but they'll get your result. This is not benign neglect.
 
@@ -163,9 +163,9 @@ Combat & Orders
 ===============
 
 
-1. Early in AF, there was contact on one side...Brigadiers with a pistol are useless in a firefight...so we went to the other side to ensure the Marines were focused. One (who was to leave the Corps soon) said, ``I hope they come to our side. This is a perfect war. They want to die, and we want to kill them."
+1. Early in AF, there was contact on one side...Brigadiers with a pistol are useless in a firefight...so we went to the other side to ensure the Marines were focused. One (who was to leave the Corps soon) said, "I hope they come to our side. This is a perfect war. They want to die, and we want to kill them."
 
-2. ``Taking the Fun out of Fundamentalism"
+2. "Taking the Fun out of Fundamentalism"
 
 3. Why is it we give an OPORDER followed by an Info annex? We're in an information war. We need to be giving information followed by a command annex.
 
