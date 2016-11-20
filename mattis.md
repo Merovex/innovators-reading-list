@@ -44,7 +44,7 @@ Strategic Thinking
 
 1. Senior leadership is about strategic thinking. He said he sees few strategic leaders at his level (he's talking Generals across the military here).
 
-2. He believes strategic thinking is more inate in the U.S. due to crappy (his word) education. 
+2. He believes strategic thinking is more innate in the U.S. due to crappy (his word) education. 
 
 3. U.K. officers use 10 adjectives where a U.S. officer uses three in the same paragraph...his observation is that a broad vocabulary suggest a broad perspective. 
 
@@ -70,7 +70,7 @@ Self-Education
 ==============
 
 
-1. Be curious. Read widely, outside your domain (harkens to a book I have on Leadership Intelligence).
+1. Be curious. Read widely, outside your domain (hearkens to a book I have on Leadership Intelligence).
 
 2. Do disciplined research, but an unconventional approach
 
@@ -78,7 +78,7 @@ Self-Education
 
 4. Do gap analysis
 
-5. He likes Marcus Aurelius as his favorite great leader, if he had to chose one; then Mendella, Lincoln, Sherman, etc. He takes a little from all great leaders.
+5. He likes Marcus Aurelius as his favorite great leader, if he had to chose one; then Mandela, Lincoln, Sherman, etc. He takes a little from all great leaders.
 
 
 
@@ -88,13 +88,13 @@ Culture
 
 1. "Irrevocable world view" is what the Muslims have.
 
-2. Are the outcomes of the Enlightenment worth defending? If so, we need to. Enlightement includes the concept of tolerance of different thought. We need to be intolerant about defending tolerance.
+2. Are the outcomes of the Enlightenment worth defending? If so, we need to. Enlightenment includes the concept of tolerance of different thought. We need to be intolerant about defending tolerance.
 
 3. The military will hold the line, but only if WE can keep them informed.
 
 4. They are committed and unapologetic about their world view...we need to be, too. (See point 2)
 
-5. Avoid "Dramatic Instance fallacy," which he defines differently than you find online. He said a dramatic event in your life will create a vividness that will lead to bias which in turn becomes racism (he was talking combat). Kill racism, relieve officers who are smitten with it.
+5. Avoid "Dramatic Instance fallacy," which he defines differently than you find on line. He said a dramatic event in your life will create a vividness that will lead to bias which in turn becomes racism (he was talking combat). Kill racism, relieve officers who are smitten with it.
 
 6. "Be unapologetic about your opinion and culture."
 
@@ -121,14 +121,14 @@ Leadership
 
 
 
-Cynism
+Cynicism
 ======
 
 1. Do not accept cynicism or pessimists. If they are enlisted, let the Gunny handle them in his own way. If they are officers, relieve them.
 
 2. Cynics try to breed despair and powerlessness...irrepressible
 
-3. Junior leaders need to be a shock absorber against Cynisim
+3. Junior leaders need to be a shock absorber against Cynicism
 
 
 
@@ -138,7 +138,7 @@ As a Junior Leader
 
 1. Earn confidence
 
-2. Stop an order early and get the (Commander's Intent) and ask for latitude to acheive the intent.
+2. Stop an order early and get the (Commander's Intent) and ask for latitude to achieve the intent.
 
 3. Lead up. (My summation of his points on junior leadership)
 
@@ -147,7 +147,7 @@ As a Junior Leader
 Current Events & War of Words & Press
 ====================================
 
-1. We are losing the narrative figbht because we do not trust our youth or differing thoughts.
+1. We are losing the narrative fight because we do not trust our youth or differing thoughts.
 
 2. Bombs: when terrorists detonate a bomb in IZ killing/wounding 80 it is "a bomb went off." When we accidentally bomb a wedding party killing 20 its "The Americans bombed a wedding party." What is it active when we make a mistake, and passive when they are intentional?
 
